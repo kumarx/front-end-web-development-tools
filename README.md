@@ -35,6 +35,7 @@ _______________________________________________________________________________
   + [React Redux](https://react-redux.js.org/)
   + [Material-UI](https://material-ui.com/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://angular.io "Angular") [Angular](https://angular.io/)
+  + [Angular Material UI](https://material.angular.io/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://vuejs.org "Vue.js") [Vue.js](https://vuejs.org/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://svelte.dev "Svelte") [Svelte](https://svelte.dev/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://jquery.com "jQuery") [jQuery](https://jquery.com/)
@@ -58,10 +59,12 @@ _______________________________________________________________________________
 ## Linter
 * ![alt text](https://www.google.com/s2/favicons?domain=https://www.eslint.org "ESLint") [ESLint](https://www.eslint.org/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://palantir.github.io/tslint "TSLint") [TSLint](https://palantir.github.io/tslint/)
+* [JSHint](https://jshint.com/)
 
 ## Testing Frameworks
 * ![alt text](https://www.google.com/s2/favicons?domain=https://jestjs.io "Jest") [Jest](https://jestjs.io/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://mochajs.org "Mocha") [Mocha](https://mochajs.org/)
+* ![alt-text](https://www.google.com/s2/favicons?domain=https://jasmine.github.io/) [Jasmine](https://jasmine.github.io/)
 * Library
   + ![alt text](https://www.google.com/s2/favicons?domain=https://testing-library.com "Testing Library") [Testing Library](https://testing-library.com/)
 * End-to-End browser tests
@@ -76,6 +79,7 @@ _______________________________________________________________________________
 ## Package Manager
 * ![alt text](https://www.google.com/s2/favicons?domain=https://yarnpkg.com "Yarn") [Yarn](https://yarnpkg.com/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://www.npmjs.com "npm") [npm](https://www.npmjs.com/)
+* ![alt text](https://www.google.com/s2/favicons?domain=https://bower.io/ "Bower") [Bower](https://bower.io/)
 
 ## Module Bundlers
 * ![alt text](https://www.google.com/s2/favicons?domain=https://webpack.js.org "Webpack") [Webpack](https://webpack.js.org/)
@@ -109,6 +113,7 @@ Extension of the ES Modules system,
 ## Accessibility
 * [WAVE](https://wave.webaim.org/)
 * [Automated Accessibility Testing Tool (AATT)](https://github.com/paypal/AATT)
+* ![alt text](https://www.google.com/s2/favicons?domain=https://www.deque.com/axe/ "axe") [AXE](https://www.deque.com/axe/)
 
 ## Performance Optimization
 * [PageSpeed](https://developers.google.com/speed)
@@ -145,12 +150,15 @@ Extension of the ES Modules system,
   + [date-fns](https://date-fns.org/)
 * State Management
   + [Redux](https://redux.js.org/)
+  + ![alt text](https://www.google.com/s2/favicons?domain=https://ngrx.io/ "NgRx") [NgRx](https://ngrx.io/)
 * Task Runner
   + [Gulp](https://gulpjs.com/)
   + [Grunt](https://gruntjs.com/)
 * Scaffolding Tool
   + [Yeoman](https://yeoman.io/)
 * [Markup Validation Service](https://validator.w3.org/)
+* Reactive Programming
+  + ![alt text](https://www.google.com/s2/favicons?domain=https://rxjs.dev/ "RxJS") [RxJS](https://rxjs.dev/)
 
 _______________________________________________________________________________
 
