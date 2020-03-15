@@ -1,5 +1,5 @@
 # Front End Web Development Tools
-List of front end web development tools.
+List of best front end web development tools.
 
 <!-- toc begin -->
 
@@ -12,13 +12,16 @@ List of front end web development tools.
 - [Testing Frameworks](#testing-frameworks)
 - [DevTools](#devtools)
 - [Package Manager](#package-manager)
-- [Build / Bundle](#build-/-bundle)
+- [Module Bundlers](#module-bundlers)
+- [Module Loaders](#module-loaders)
+- [Node Process Managers](#node-process-managers)
 - [Internationalization](#internationalization)
 - [Code Editors](#code-editors)
 - [Accessibility](#accessibility)
 - [Performance Optimization](#performance-optimization)
 - [Visualizations](#visualizations)
-- [3D](#3d)
+- [Graphics](#graphics)
+- [Maps](#maps)
 - [Miscellaneous](#miscellaneous)
 
 <!-- toc end -->
@@ -50,6 +53,7 @@ _______________________________________________________________________________
 
 ## Code Formatter
 * [Prettier](https://www.prettier.io/)
+* [StandardJS](https://standardjs.com/)
 
 ## Linter
 * [ESLint](https://www.eslint.org/)
@@ -73,9 +77,26 @@ _______________________________________________________________________________
 * [Yarn](https://yarnpkg.com/)
 * [npm](https://www.npmjs.com/)
 
-## Build / Bundle
-* [webpack](https://webpack.js.org/)
+## Module Bundlers
+* [Webpack](https://webpack.js.org/)
 * [Parcel](https://parceljs.org/)
+* [Rollup](https://rollupjs.org/guide/en/)
+
+## Module Loaders
+[ES modules](https://tc39.es/ecma262/#sec-modules) is an official module system to JavaScript. Other popular module loaders are,  
+* [RequireJS](https://requirejs.org/)
+* [SystemJS](https://github.com/systemjs/systemjs)
+
+Extension of the ES Modules system,  
+* [CSS Modules](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/css-modules-v1-explainer.md) 
+* [WebAssembly Modules](https://github.com/webassembly/esm-integration) 
+* [JSON Modules](https://github.com/whatwg/html/pull/4407) 
+
+## Node Process Managers
+* [PM2](https://github.com/Unitech/pm2)
+* [StrongLoop PM](http://strong-pm.io/)
+* SystemD (Available on most Linux distributions, that makes to run a Node application as a service)
+* [Forever](https://github.com/foreversd/forever)
 
 ## Internationalization
 * [I18next](https://www.i18next.com/)
@@ -83,6 +104,7 @@ _______________________________________________________________________________
 ## Code Editors
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
 
 ## Accessibility
 * [WAVE](https://wave.webaim.org/)
@@ -97,9 +119,23 @@ _______________________________________________________________________________
   * [Google Charts](https://developers.google.com/chart/)
   * [Chart.js](https://www.chartjs.org/)
 
-## 3D
-* [three.js](https://threejs.org/)
-* [Babylon.js](https://www.babylonjs.com/)
+## Graphics
+* Canvas
+  + [Paper.js](http://paperjs.org/)
+  + [EaselJS](https://github.com/CreateJS/EaselJS)
+* SVG
+  + [D3.js](https://d3js.org/)
+  + [SVG.js](https://svgjs.com/)
+  + [Snap.svg](http://snapsvg.io/)
+  + [GraphicsJS](http://www.graphicsjs.org/)
+* WebGL
+  + [PixiJS](https://www.pixijs.com/)
+  + [three.js](https://threejs.org/)
+  + [Babylon.js](https://www.babylonjs.com/)
+
+## Maps
+* [OpenLayers](https://openlayers.org/)
+* [Leaflet](https://leafletjs.com/)
 
 ## Miscellaneous
 * [Ramda](https://ramdajs.com/)
@@ -112,6 +148,8 @@ _______________________________________________________________________________
 * Task Runner
   + [Gulp](https://gulpjs.com/)
   + [Grunt](https://gruntjs.com/)
+* Scaffolding Tool
+  + [Yeoman](https://yeoman.io/)
 * [Markup Validation Service](https://validator.w3.org/)
 
 _______________________________________________________________________________
