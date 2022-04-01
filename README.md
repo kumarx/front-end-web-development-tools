@@ -42,6 +42,7 @@ _______________________________________________________________________________
 
 ## CSS frameworks
 * ![alt text](https://www.google.com/s2/favicons?domain=https://getbootstrap.com "Bootstrap") [Bootstrap](https://getbootstrap.com/)
+* ![alt text](https://www.google.com/s2/favicons?domain=https://get.foundation "Foundation") [Foundation](https://get.foundation/)
 
 ## Transpiler / Type Checker
 * ![alt text](https://www.google.com/s2/favicons?domain=https://www.typescriptlang.org "TypeScript") [TypeScript](https://www.typescriptlang.org/)
@@ -141,6 +142,23 @@ Extension of the ES Modules system,
 ## Maps
 * ![alt text](https://www.google.com/s2/favicons?domain=https://openlayers.org "OpenLayers") [OpenLayers](https://openlayers.org/)
 * ![alt text](https://www.google.com/s2/favicons?domain=https://leafletjs.com "Leaflet") [Leaflet](https://leafletjs.com/)
+
+## GraphQL
+* ![alt text](https://www.google.com/s2/favicons?domain=https://www.apollographql.com "Apollo") [Apollo](https://www.apollographql.com/)
+* ![alt text](https://www.google.com/s2/favicons?domain=https://relay.dev "Relay Modern") [Relay Modern](https://relay.dev/)
+
+## Server Side Rendering
+* ![alt text](https://www.google.com/s2/favicons?domain=https://reactjs.org "React") [React](https://reactjs.org/)
+  + ![alt text](https://www.google.com/s2/favicons?domain=https://nextjs.org "Next.js") [Next.js](https://nextjs.org/)
+* ![alt text](https://www.google.com/s2/favicons?domain=https://angular.io "Angular") [Angular](https://angular.io/)
+  + ![alt text](https://www.google.com/s2/favicons?domain=https://angular.io/guide/universal "Angular Universal") [Angular Universal](https://angular.io/guide/universal/)
+* ![alt text](https://www.google.com/s2/favicons?domain=https://vuejs.org "Vue.js") [Vue.js](https://vuejs.org/)
+  + ![alt text](https://www.google.com/s2/favicons?domain=https://nuxtjs.org/ "NuxtJs") [NuxtJs](https://nuxtjs.org//)
+  
+## Web Components
+* [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+* [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+* [HTML Templates](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
 ## Miscellaneous
 * [Ramda](https://ramdajs.com/)
