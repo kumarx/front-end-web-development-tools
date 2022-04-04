@@ -42,7 +42,6 @@ _______________________________________________________________________________
 
 ## CSS frameworks
 * ![alt text](https://www.google.com/s2/favicons?domain=https://getbootstrap.com "Bootstrap") [Bootstrap](https://getbootstrap.com/)
-* ![alt text](https://www.google.com/s2/favicons?domain=https://get.foundation "Foundation") [Foundation](https://get.foundation/)
 
 ## Transpiler / Type Checker
 * ![alt text](https://www.google.com/s2/favicons?domain=https://www.typescriptlang.org "TypeScript") [TypeScript](https://www.typescriptlang.org/)
@@ -155,11 +154,6 @@ Extension of the ES Modules system,
 * ![alt text](https://www.google.com/s2/favicons?domain=https://vuejs.org "Vue.js") [Vue.js](https://vuejs.org/)
   + ![alt text](https://www.google.com/s2/favicons?domain=https://nuxtjs.org/ "NuxtJs") [NuxtJs](https://nuxtjs.org//)
   
-## Web Components
-* [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
-* [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
-* [HTML Templates](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
-
 ## Miscellaneous
 * [Ramda](https://ramdajs.com/)
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
